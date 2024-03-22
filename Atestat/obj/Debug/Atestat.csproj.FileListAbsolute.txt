@@ -1,0 +1,39 @@
+D:\Gestiunea datelor despre elevii unui liceu - Atestat - Sandu Victor Codrin\Atestat\Atestat\bin\Debug\Liceu.mdf
+D:\Gestiunea datelor despre elevii unui liceu - Atestat - Sandu Victor Codrin\Atestat\Atestat\bin\Debug\Liceu_log.ldf
+D:\Gestiunea datelor despre elevii unui liceu - Atestat - Sandu Victor Codrin\Atestat\Atestat\bin\Debug\Atestat.exe.config
+D:\Gestiunea datelor despre elevii unui liceu - Atestat - Sandu Victor Codrin\Atestat\Atestat\bin\Debug\Atestat.exe
+D:\Gestiunea datelor despre elevii unui liceu - Atestat - Sandu Victor Codrin\Atestat\Atestat\bin\Debug\Atestat.pdb
+D:\Gestiunea datelor despre elevii unui liceu - Atestat - Sandu Victor Codrin\Atestat\Atestat\obj\Debug\Atestat.csprojAssemblyReference.cache
+D:\Gestiunea datelor despre elevii unui liceu - Atestat - Sandu Victor Codrin\Atestat\Atestat\obj\Debug\Atestat.Logare.resources
+D:\Gestiunea datelor despre elevii unui liceu - Atestat - Sandu Victor Codrin\Atestat\Atestat\obj\Debug\Atestat.Properties.Resources.resources
+D:\Gestiunea datelor despre elevii unui liceu - Atestat - Sandu Victor Codrin\Atestat\Atestat\obj\Debug\Atestat.csproj.GenerateResource.cache
+D:\Gestiunea datelor despre elevii unui liceu - Atestat - Sandu Victor Codrin\Atestat\Atestat\obj\Debug\Atestat.csproj.CoreCompileInputs.cache
+D:\Gestiunea datelor despre elevii unui liceu - Atestat - Sandu Victor Codrin\Atestat\Atestat\obj\Debug\Atestat.exe
+D:\Gestiunea datelor despre elevii unui liceu - Atestat - Sandu Victor Codrin\Atestat\Atestat\obj\Debug\Atestat.pdb
+D:\Gestiunea datelor despre elevii unui liceu - Atestat - Sandu Victor Codrin\Atestat\Atestat\obj\Debug\Atestat.Admin.resources
+D:\Gestiunea datelor despre elevii unui liceu - Atestat - Sandu Victor Codrin\Atestat\Atestat\obj\Debug\Atestat.Normal.resources
+D:\Gestiunea datelor despre elevii unui liceu - Atestat - Sandu Victor Codrin\Atestat\Atestat\obj\Debug\Atestat.Notare.resources
+E:\12A\Atestat\Atestat\bin\Debug\Liceu.mdf
+E:\12A\Atestat\Atestat\bin\Debug\Liceu_log.ldf
+E:\12A\Atestat\Atestat\bin\Debug\Atestat.exe.config
+E:\12A\Atestat\Atestat\bin\Debug\Atestat.exe
+E:\12A\Atestat\Atestat\bin\Debug\Atestat.pdb
+E:\12A\Atestat\Atestat\obj\Debug\Atestat.csprojAssemblyReference.cache
+E:\12A\Atestat\Atestat\obj\Debug\Atestat.Adaugare.resources
+E:\12A\Atestat\Atestat\obj\Debug\Atestat.Admin.resources
+E:\12A\Atestat\Atestat\obj\Debug\Atestat.Logare.resources
+E:\12A\Atestat\Atestat\obj\Debug\Atestat.Modificare.resources
+E:\12A\Atestat\Atestat\obj\Debug\Atestat.Normal.resources
+E:\12A\Atestat\Atestat\obj\Debug\Atestat.Notare.resources
+E:\12A\Atestat\Atestat\obj\Debug\Atestat.Properties.Resources.resources
+E:\12A\Atestat\Atestat\obj\Debug\Atestat.csproj.GenerateResource.cache
+E:\12A\Atestat\Atestat\obj\Debug\Atestat.csproj.CoreCompileInputs.cache
+E:\12A\Atestat\Atestat\obj\Debug\Atestat.exe
+E:\12A\Atestat\Atestat\obj\Debug\Atestat.pdb
+D:\Gestiunea datelor despre elevii unui liceu - Atestat - Sandu Victor Codrin\Atestat\Atestat\obj\Debug\Atestat.Adaugare_Elev.resources
+D:\Gestiunea datelor despre elevii unui liceu - Atestat - Sandu Victor Codrin\Atestat\Atestat\obj\Debug\Atestat.Modificare_Elev.resources
+D:\Gestiunea datelor despre elevii unui liceu - Atestat - Sandu Victor Codrin\Atestat\Atestat\obj\Debug\Atestat.Stergere_Elev.resources
+D:\Gestiunea datelor despre elevii unui liceu - Atestat - Sandu Victor Codrin\Atestat\Atestat\obj\Debug\Atestat.Adaugare_user.resources
+D:\Gestiunea datelor despre elevii unui liceu - Atestat - Sandu Victor Codrin\Atestat\Atestat\obj\Debug\Atestat.Stergere_User.resources
+D:\Gestiunea datelor despre elevii unui liceu - Atestat - Sandu Victor Codrin\Atestat\Atestat\obj\Debug\Atestat.Modificare_Nota.resources
+D:\Gestiunea datelor despre elevii unui liceu - Atestat - Sandu Victor Codrin\Atestat\Atestat\obj\Debug\Atestat.Modificare_User.resources
